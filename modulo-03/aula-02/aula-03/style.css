@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #e6e4ee;
+    color: #E8E6F5;
+    padding: 1.5rem;
+}
+
+.todo {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+
+.topo {
+    min-height: 20vh;
+    margin-bottom: 1rem;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #280588, #6669ff);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, .35);
+}
+
+.centro {
+    text-align: center;
+
+}
+
+.card-centro {
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    min-height: 14vh;
+    background: #130a5e;
+    border-radius: 14px;
+    margin: .5% 1%;
+    border: 2px solid rgba(255, 255, 255, .12);
+}
+
+.inferior {
+    text-align: center;
+    margin-top: 1rem;
+    background: linear-gradient(135deg, #61a6ff, #3b3ef0);
+    min-height: 36vh;
+    
+
+}
+
+.
