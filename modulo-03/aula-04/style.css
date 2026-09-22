@@ -1,0 +1,29 @@
+nav {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 14px;
+    background: #201653;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    list-style: none;
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #FF3D7F;
+}
+
+nav a:hover {
+    color: #3004F5;
+    background:    ;
+}
